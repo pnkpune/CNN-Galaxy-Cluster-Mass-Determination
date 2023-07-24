@@ -42,6 +42,5 @@ Then navigate to the desired notebook and run the cells.
 
 ## Authors
 
-- Manik Dawar
-- Nader Mostaan
 - Pranav Kulkarni
+- Manik Dawar
