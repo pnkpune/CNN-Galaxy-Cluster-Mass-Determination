@@ -1,7 +1,7 @@
 
 # Convolutional Neural Network for Galaxy Cluster Mass Prediction
 
-This project involves the use of Convolutional Neural Networks (CNNs) to predict galaxy cluster masses. The data comes from simulations of eROSITA observations, specifically from the Final Equatorial Depth Survey (eFEDS).
+This project involves the use of Convolutional Neural Networks (CNNs) to predict galaxy cluster masses. The data comes from simulations of eROSITA observations, specifically from the Final Equatorial Depth Survey (eFEDS). Note that the data set hasn't been included due to size constraints but can be accessed from the https://erosita.mpe.mpg.de/edr/ .
 
 ## Project Structure
 
